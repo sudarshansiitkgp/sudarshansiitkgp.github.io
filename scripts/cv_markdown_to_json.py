@@ -117,7 +117,12 @@ def extract_author_info(config):
                 "username": "",
                 "url": author.get('googlescholar')
             })
-        
+        if author.get('dblp'):
+            profiles.append({
+                "network": "DBLP",
+                "username": "",
+                "url": author.get('dblp')
+            })
         if author.get('orcid'):
             profiles.append({
                 "network": "ORCID",
