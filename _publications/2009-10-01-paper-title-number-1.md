@@ -1,6 +1,6 @@
 ---
 title: "Finding fair allocations under budget constraints"
-collection: publications
+collection: conferences
 category: manuscripts
 venue: 'AAAI 2023'
 paperurl: 'https://arxiv.org/abs/2208.08168'
