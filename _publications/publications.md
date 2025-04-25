@@ -8,16 +8,20 @@ permalink: /publications/
 
 Here are my selected publications:
 
-- **Title 1**  
-  Authors. *Conference/Journal Name*, Year.  
-  [Link if you have it]
+- **Finding Fair Allocations under Budget Constraint**  
+  with Siddharth Barman, Arindam Khan, and K. V. N. Sreenivas. *AAAI*, 2023.  
+  [https://doi.org/10.48550/arXiv.2208.08168]
 
-- **Title 2**  
-  Authors. *Conference/Journal Name*, Year.  
-  [Link if you have it]
+- **Guaranteeing Envy-Freeness under Generalized Assignment Constraints**  
+  with Siddharth Barman, Arindam Khan, and K. V. N. Sreenivas. *EC*, 2023. 
+  [https://doi.org/10.48550/arXiv.2305.01339]
 
-- **Title 3**  
-  Authors. *Conference/Journal Name*, Year.  
-  [Link if you have it]
+- **Low-Distortion Clustering with Ordinal and Limited Cardinal Information**  
+  with 	Jakob Burkhardt, Ioannis Caragiannis, Karl Fehrs, Matteo Russo, and Chris Schwiegelshohn. *AAAI*, 2024.  
+  [https://doi.org/10.48550/arXiv.2402.04035]
+
+- **A new lower bound for multi-color discrepancy with applications to fair division**  
+  with 		Ioannis Caragiannis and Kasper Green Larsen. *under submission*.  
+  [https://doi.org/10.48550/arXiv.2502.10516]
 
 <!-- Add more entries similarly -->
