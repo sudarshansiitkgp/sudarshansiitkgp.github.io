@@ -23,5 +23,10 @@ Here are my selected publications:
 - **A new lower bound for multi-color discrepancy with applications to fair division**  
   with 		Ioannis Caragiannis and Kasper Green Larsen. *under submission*.  
   [Link](https://doi.org/10.48550/arXiv.2502.10516)
+  
+- **Simple and Optimal Sublinear Algorithms for Mean Estimation**  
+  with 		Beatrice Bertolotti, Matteo Russo, and Chris Schwiegelshohn. *under submission*.  
+  [Link](https://arxiv.org/abs/2406.05254)
+  
 
 <!-- Add more entries similarly -->
