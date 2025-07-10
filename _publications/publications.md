@@ -8,7 +8,7 @@ permalink: /publications/
 
 Here are my selected publications:
 
-- **Finding Fair Allocations under Budget Constraint**  
+- **Finding Fair Allocations under Budget Constraints**  
   with Siddharth Barman, Arindam Khan, and K. V. N. Sreenivas. *AAAI*, 2023.  
   [Link](https://doi.org/10.48550/arXiv.2208.08168)
 
@@ -21,12 +21,15 @@ Here are my selected publications:
   [Link](https://doi.org/10.48550/arXiv.2402.04035)
 
 - **A new lower bound for multi-color discrepancy with applications to fair division**  
-  with 		Ioannis Caragiannis and Kasper Green Larsen. *under submission*.  
+  with 		Ioannis Caragiannis and Kasper Green Larsen. *SAGT* 2025.  
   [Link](https://doi.org/10.48550/arXiv.2502.10516)
   
 - **Simple and Optimal Sublinear Algorithms for Mean Estimation**  
   with 		Beatrice Bertolotti, Matteo Russo, and Chris Schwiegelshohn. *under submission*.  
   [Link](https://arxiv.org/abs/2406.05254)
+
+- **Existence and Computation of Fair Allocations under Constraints**  
+  with 		Siddharth Barman and Ioannis Caragiannis. *under submission*.  
   
 
 <!-- Add more entries similarly -->
