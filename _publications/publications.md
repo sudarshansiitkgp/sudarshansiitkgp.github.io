@@ -25,7 +25,7 @@ Here are my selected publications:
   [Link](https://doi.org/10.48550/arXiv.2502.10516)
   
 - **Simple and Optimal Sublinear Algorithms for Mean Estimation**  
-  with 		Beatrice Bertolotti, Matteo Russo, and Chris Schwiegelshohn. *Neurips* 2025.  
+  with 		Beatrice Bertolotti, Matteo Russo, and Chris Schwiegelshohn. *NEURIPS* 2025.  
   [Link](https://arxiv.org/abs/2406.05254)
 
 - **Existence and Computation of Fair Allocations under Constraints**  
