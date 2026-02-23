@@ -29,7 +29,10 @@ Here are my selected publications:
   [Link](https://arxiv.org/abs/2406.05254)
 
 - **Existence and Computation of Fair Allocations under Constraints**  
-  with 		Siddharth Barman and Ioannis Caragiannis. *under submission*.  
+  with 		Siddharth Barman and Ioannis Caragiannis.  *AAMAS* 2026
+
+- **Approximation Preserving Coresets**
+  with Milind Prabhu and Chris Schwiegelshohn. *under submission*
   
 
 <!-- Add more entries similarly -->
