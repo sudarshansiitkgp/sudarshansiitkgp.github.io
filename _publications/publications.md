@@ -32,6 +32,9 @@ Here are my selected publications:
   with 		Siddharth Barman and Ioannis Caragiannis.  *AAMAS* 2026
 
 - **Approximation Preserving Coresets**  
-  with Milind Prabhu and Chris Schwiegelshohn.  *under submission*  
+  with Milind Prabhu and Chris Schwiegelshohn.  *under submission*
+
+  - **Stochastic Bin Packing with Linear Grouping**  
+  with KVN Sreenivas.  *under submission*  
 
 <!-- Add more entries similarly -->
